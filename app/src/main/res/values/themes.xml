@@ -6,6 +6,6 @@
         <item name="colorSecondary">@android:color/holo_green_dark</item>
         <item name="colorSecondaryVariant">@android:color/holo_green_light</item>
         <item name="colorOnSecondary">@android:color/white</item>
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">?attr/colorPrimaryVariant</item>
     </style>
 </resources>
